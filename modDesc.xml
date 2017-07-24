@@ -7,11 +7,12 @@
     <title>
         <en>Disable Missions</en>
         <de>Disable Missions</de>
-        <fr>Disable Missions</fr>
+        <fr>Désactive les missions</fr>
     </title>
 
     <description>
         <en><![CDATA[Disables all missions on fields not owned by the player. All fields not owned will also no longer be worked by NPCs.]]></en>
+        <fr><![CDATA[Désactive toutes les missions sur les champs qui ne sont pas la propriété du joueur. Tous les champs non détenus ne seront plus travaillés par NPCs.]]></fr>
     </description>
 
     <iconFilename>icon.dds</iconFilename>
